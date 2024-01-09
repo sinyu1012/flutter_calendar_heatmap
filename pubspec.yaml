@@ -1,6 +1,6 @@
 name: flutter_calendar_heatmap
 description: "Flutter heatmap calendar inspired by github contribution chart."
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/sinyu1012/flutter_calendar_heatmap
 
 environment:

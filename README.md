@@ -2,7 +2,7 @@
 
 Flutter heatmap calendar inspired by github contribution chart.
 
-<img src="images/img.jpg" alt="img" style="zoom:50%;" />
+<img src="https://github.com/sinyu1012/flutter_calendar_heatmap/blob/main/images/img.jpg?raw=true" alt="img" style="zoom:50%;" />
 
 ## Getting Started
 
