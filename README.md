@@ -21,7 +21,7 @@ Add it to your package's pubspec.yaml file
 
 ```
 dependencies:
-  flutter_calendar_heatmap: ^0.1.0
+  flutter_calendar_heatmap: ^0.1.1
 ```
 
 
